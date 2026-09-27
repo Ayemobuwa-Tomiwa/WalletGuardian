@@ -1,0 +1,3 @@
+# One PUBLIC wallet address per line.
+# Example EVM address:
+# 0x0000000000000000000000000000000000000000
